@@ -6,10 +6,10 @@
 		"activityBar.border": "#1c304a",
 		"activityBarBadge.background": "#007acc",
 		"contrastActiveBorder": "#eda323",
-		"editor.background": "#ECECEC",
+		"editor.background": "#fffff7",
 		"editor.foreground": "#0a121c",
 		"editor.lineHighlightBorder": "#e5e5e0",
-		"editor.inactiveSelectionBackground": "#d1d0cb",
+		"editor.inactiveSelectionBackground": "#cccbc6",
 		"editor.selectionBackground": "#cccbc6",
 		"editor.selectionHighlightBackground": "#cccbc6",
 		"editorGroupHeader.tabsBackground": "#bfbfbf",
@@ -19,14 +19,18 @@
 		"focusBorder": "#eda323",
 		"input.placeholderForeground": "#a6a6a6",
 		"list.dropBackground": "#CCCCCC",
-		"list.hoverBackground": "#807D67",
-		"list.inactiveSelectionBackground": "#efefef",
+		"list.hoverBackground": "#eda323",
+		"list.inactiveSelectionForeground": "#6C7076",
+		"list.inactiveSelectionBackground": "#F9F9F9",
 		"menu.background": "#d7d7d7",
 		"menu.foreground": "#cccccc",
-		"notifications.background": "#152438",
+		"notifications.background": "#E5E5E0",
+		"panel.border": "#d7d7d7",
+		"panel.background": "#f9f9f9",
 		"settings.numberInputBackground": "#292929",
 		"settings.textInputBackground": "#292929",
-		"sideBar.background": "#d7d7d7",
+		"sideBar.background": "#efefef",
+		"sideBar.border": "#d7d7d7",
 		"sideBar.foreground": "#0a121c",
 		"sideBarTitle.foreground": "#0a121c",
 		"tab.activeBackground": "#efefef",
@@ -54,7 +58,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6A9955"
+				"foreground": "#6C7076"
 			}
 		},
 		{
@@ -126,7 +130,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#9D8319"
+				"foreground": "#B8860B"
 			}
 		},
 		{
@@ -247,7 +251,7 @@
 				"entity.name.function.apex"
 			],
 			"settings": {
-				"foreground": "#9D8319"
+				"foreground": "#B8860B"
 			}
 		},
 		{
@@ -562,7 +566,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#807D67"
+				"foreground": "#6C7076"
 			}
 		},
 		{
