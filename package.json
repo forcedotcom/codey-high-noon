@@ -1,0 +1,22 @@
+{   
+    "publisher" : "zaynet",
+    "name": "codey-high-noon",
+    "displayName": "Codey High Noon",
+    "description": "Light theme configured for accessibility and Salesforce development",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Codey High Noon",
+                "uiTheme": "vs",
+                "path": "./themes/CodeyHighNoon.json"
+            }
+        ]
+    }
+}
