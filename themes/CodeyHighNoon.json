@@ -289,8 +289,12 @@
 				"entity.name.variable.parameter.apex",
 				"meta.definition.variable.ts",
 				"variable.other.object.ts",
+<<<<<<< HEAD
 				"meta.var.expr.ts",
 				"variable.other.readwrite.ts"
+=======
+				"meta.var.expr.ts"
+>>>>>>> 49d08d286b292532bfa2497cd46d507f0f88c081
 			],
 			"settings": {
 				"foreground": "#1460AA"
