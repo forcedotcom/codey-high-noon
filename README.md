@@ -1,5 +1,5 @@
 ## Codey High Noon Theme for VS Code
-![Codey High Noon Theme in Action](./docs/Theme_Action.png)
+![Codey High Noon Theme in Action](./docs/ThemeAction.png)
 
 A custom theme for VS Code, designed for Salesforce development. Built to be accessible and boost developer productivity. 
 
