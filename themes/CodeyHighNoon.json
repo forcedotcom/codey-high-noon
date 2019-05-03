@@ -170,10 +170,27 @@
 		{
 			"name": "JS Imports",
 			"scope": [
-				"meta.import.js"
+				"meta.import.js",
+				"meta.export.js",
+				"meta.import.ts",
+				"meta.export.ts"
 			],
 			"settings": {
 				"foreground": "#1E90FF"	
+			}
+		},
+		{
+			"name": "Boolean Vals",
+			"scope": [
+				"constant.language.boolean.true.js",
+				"constant.language.boolean.false.js",
+				"constant.language.boolean.true.ts",
+				"constant.language.boolean.false.ts",
+				"constant.language.boolean.true.apex",
+				"constant.language.boolean.false.apex"
+			],
+			"settings": {
+				"foreground": "#58007E"	
 			}
 		},
 		{
@@ -184,7 +201,10 @@
 				"keyword.control.export.js",
 				"keyword.control.conditional",
 				"keyword.type.apex",
-				"keyword.other.class.apex"
+				"keyword.other.class.apex",
+				"keyword.control.import.ts",
+				"keyword.control.export.ts"
+
 			],
 			"settings": {
 				"foreground": "#2A150D"
@@ -250,7 +270,9 @@
 				"meta.definition.method.js",
 				"meta.method.declaration.js",
 				"meta.function-call.js",
-				"entity.name.function.apex"
+				"meta.function-call.ts",
+				"entity.name.function.apex",
+				"meta.function.expression.ts"
 			],
 			"settings": {
 				"foreground": "#914F15"
@@ -263,7 +285,13 @@
 				"meta.parameters.js",
 				"meta.objectliteral.js",
 				"meta.block.js",
-				"entity.name.variable.parameter.apex"
+				"meta.block.ts",
+				"entity.name.variable.parameter.apex",
+				"meta.definition.variable.ts",
+				"variable.other.object.ts",
+				"meta.var.expr.ts",
+				"variable.other.readwrite.ts",
+				"meta.var.expr.ts"
 			],
 			"settings": {
 				"foreground": "#1460AA"
