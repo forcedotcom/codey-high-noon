@@ -1,9 +1,22 @@
-{   
-    "publisher" : "zaynet",
+{
+    "publisher": "salesforce",
     "name": "codey-high-noon",
     "displayName": "Codey High Noon",
     "description": "Light theme configured for accessibility and Salesforce development",
     "version": "1.0.0",
+    "icon": "images/icon.png",
+    "license": "BSD-3-Clause",
+    "qna": false,
+    "bugs": {
+        "url": "https://github.com/zaynelt/codey-high-noon/issues"
+    },
+    "repository": {
+        "url": "https://github.com/zaynelt/codey-high-noon"
+    },
+    "galleryBanner": {
+        "color": "#ECECEC",
+        "theme": "light"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },
