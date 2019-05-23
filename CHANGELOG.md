@@ -10,3 +10,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 -   Initial theme for TDX19
 -   License for public use
+
+## [1.0.1] - 5/2019
+
+### Added
+
+-   New icon
